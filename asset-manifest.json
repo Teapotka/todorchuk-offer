@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/todorchuk-offer/static/css/main.073c9b0a.css",
-    "main.js": "/todorchuk-offer/static/js/main.69dca5e1.js",
-    "static/js/787.915f1f39.chunk.js": "/todorchuk-offer/static/js/787.915f1f39.chunk.js",
-    "static/media/logo.svg": "/todorchuk-offer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/todorchuk-offer/static/css/main.97f0213c.css",
+    "main.js": "/todorchuk-offer/static/js/main.aa5ee71f.js",
+    "static/media/Button.svg": "/todorchuk-offer/static/media/Button.a4e532e595d59e09e11ee8cd2d5913f7.svg",
     "index.html": "/todorchuk-offer/index.html",
-    "main.073c9b0a.css.map": "/todorchuk-offer/static/css/main.073c9b0a.css.map",
-    "main.69dca5e1.js.map": "/todorchuk-offer/static/js/main.69dca5e1.js.map",
-    "787.915f1f39.chunk.js.map": "/todorchuk-offer/static/js/787.915f1f39.chunk.js.map"
+    "main.97f0213c.css.map": "/todorchuk-offer/static/css/main.97f0213c.css.map",
+    "main.aa5ee71f.js.map": "/todorchuk-offer/static/js/main.aa5ee71f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.69dca5e1.js"
+    "static/css/main.97f0213c.css",
+    "static/js/main.aa5ee71f.js"
   ]
 }
